@@ -15,7 +15,11 @@ For the application I decided to work on the eclipse IDE. I figured this would b
 ##### Sources utilized 
 
 https://www.tutlane.com/tutorial/sqlite/sqlite-java-tutorial
+
 https://www.youtube.com/watch?v=h1rYlMrvNyE
+
 https://stackoverflow.com/questions/18093928/what-does-could-not-find-or-load-main-class-mean
+
 https://www.sqlitetutorial.net/sqlite-java/create-database/
+
 https://www.youtube.com/watch?v=JPsWaI5Z3gs
